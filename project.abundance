@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Test_Loft",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "050924fa-12b5-45b2-bc23-6a9f19f4837c",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
