@@ -7,18 +7,15 @@
   "ioValues": [
     {
       "name": "CircleDia1",
-      "ioValue": 40,
-      "currentEquation": "40"
+      "ioValue": 40
     },
     {
       "name": "CircleDia2",
-      "ioValue": 35,
-      "currentEquation": "35"
+      "ioValue": 35
     },
     {
       "name": "Height",
-      "ioValue": 40,
-      "currentEquation": "40"
+      "ioValue": 40
     }
   ],
   "topLevel": true,
@@ -53,7 +50,7 @@
       "atomType": "Input",
       "name": "Height",
       "x": 0.025384615384615384,
-      "y": 0.6229166666666667,
+      "y": 0.3076923076923077,
       "uniqueID": "ca0fa849-2c62-4cdb-8096-4da2d31a9a28",
       "ioValues": [],
       "type": "number"
@@ -216,8 +213,7 @@
       "ioValues": [
         {
           "name": "xDist",
-          "ioValue": 40,
-          "currentEquation": "40"
+          "ioValue": 40
         },
         {
           "name": "yDist",
