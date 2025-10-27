@@ -262,7 +262,7 @@
         {
           "name": "Shape 2",
           "ioValue": {
-            "geometry": "loft-move-circle-20-0-0-0-move-circle-17.5-0-0-0",
+            "geometry": "loft-move-circle-20-0-0-0-move-circle-17.5-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,40],\"xDir\":[1,0,0],\"normal\":[0,0,1]}",
             "dimension": "3D",
             "tags": [],
             "plane": {
